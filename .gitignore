@@ -1,4 +1,6 @@
 .pyc
 .log
 .sqlite3
+.txt
+.json
 node_modules/
